@@ -1,3 +1,3 @@
-# programacao_orientada_objeto
+# Programacao-OO
 
 1 - Pequeno projeto para fins de aprendizado sobre programação orientada a objetos.
